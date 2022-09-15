@@ -6,10 +6,10 @@ export default function App() {
     <div className="App">
       <div className="container">
         <main>
-          <Dictionary defaultKeyword="sunset" />
+          <Dictionary defaultKeyword="flower" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Tamila</small>
+          <small>Coded by Tamila Bichurina</small>
         </footer>
       </div>
     </div>
