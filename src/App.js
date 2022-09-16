@@ -9,7 +9,16 @@ export default function App() {
           <Dictionary defaultKeyword="flower" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Tamila Bichurina</small>
+          <small>
+            This project was coded by Tamila Bichurina and is{" "}
+            <a
+              href="https://github.com/Tamilo4ka/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
